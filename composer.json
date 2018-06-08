@@ -22,11 +22,6 @@
             "helpers.php"
         ]
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.1"
-        }
-    },
     "suggest": {
         "ramsey/uuid": "Required to use Str::uuid() (^3.7)."
     },
