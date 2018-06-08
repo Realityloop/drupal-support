@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Monkii\\Support\\": ""
+            "Monkii\\Support\\": "src/Support/"
         },
         "files": [
             "helpers.php"
