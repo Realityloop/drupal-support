@@ -2,6 +2,7 @@
     "name": "monkii/support",
     "description": "The Monkii Drupal  Support package.",
     "homepage": "https://monkii.com",
+    "type": "library",
     "authors": [
         {
             "name": "Paul Laney",
